@@ -1,5 +1,4 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-<h1 align="center"></h1>
 <h1 align="center">Hi, I'm <a href="https://www.cnblogs.com/YenKoc/">YenKoc</a>!</h1> 
 <div align="center"> 
 <p >🍻 Junior at 🇨🇳 JXNU, _BSc in Computer Science_</p>
