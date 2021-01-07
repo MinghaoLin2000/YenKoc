@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.cnblogs.com/YenKoc/">YenKoc</a>!</h1> 
-
+<div align="center"> 
 <p align="center">🍻 Junior at 🇨🇳 JXNU, _BSc in Computer Science_</p>
   
 <p align="center">⚡ C / C++ / Python / Java.</p>
@@ -8,7 +8,7 @@
 <p align="center"> 🏃 Dancing / Coding</p>
 <p align="center">🥋 Boxing / Tai Chi</p>
 <p align="center">♟ Watching Anime </p>
-
+</div>
 
 
 <p align="center">
