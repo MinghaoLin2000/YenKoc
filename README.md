@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://www.cnblogs.com/YenKoc/">YenKoc</a>!</h1> 
 <div align="center"> 
-<p align="center">🍻 Junior at 🇨🇳 JXNU, _BSc in Computer Science_</p>
+<p >🍻 Junior at 🇨🇳 JXNU, _BSc in Computer Science_</p>
   
-<p align="center">⚡ C / C++ / Python / Java.</p>
+<p >⚡ C / C++ / Python / Java.</p>
 <p align="center"> 🖋 Writer at <a href="https://www.cnblogs.com/YenKoc">博客园</a></p>
 <p align="center">✍️ <a href="https://www.cnblogs.com/YenKoc">Blogger</a></p>
 <p align="center"> 🏃 Dancing / Coding</p>
